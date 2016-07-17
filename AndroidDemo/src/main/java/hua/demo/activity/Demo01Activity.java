@@ -14,6 +14,9 @@ import android.widget.RelativeLayout;
 import hua.demo.R;
 import hua.demo.base.BaseActivity;
 
+/**
+ * 补间动画
+ */
 public class Demo01Activity extends BaseActivity implements View.OnClickListener {
 
 
