@@ -15,7 +15,7 @@ import hua.demo.R;
 import hua.demo.base.BaseActivity;
 
 /**
- * 补间动画 1819
+ * 补间动画 1825
  */
 public class Demo01Activity extends BaseActivity implements View.OnClickListener {
 
